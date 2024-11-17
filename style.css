@@ -79,7 +79,6 @@ body {
 .nav-links a {
   color: #2c3e50;
   text-decoration: none;
-  margin-left: 2rem;
   font-weight: 500;
   transition: color 0.3s;
 }
